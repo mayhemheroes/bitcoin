@@ -1,0 +1,4 @@
+project: PROJECT
+target: addition_overflow
+cmds:
+- cmd: /out/addition_overflow
